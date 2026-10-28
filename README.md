@@ -6,6 +6,7 @@ Computer Science student · Kazakhstan → China.
 Делаю **AI-ботов, Telegram-ботов, автоматизацию и веб-приложения** для бизнеса — под ключ, от интерфейса до сервера.
 
 🌐 **Portfolio:** [webwire-portfolio.vercel.app](https://webwire-portfolio.vercel.app)
+
 💬 **Telegram:** [@SHAKOTAN2](https://t.me/SHAKOTAN2)
 
 ### Projects
